@@ -12,6 +12,7 @@
 </a>
 
 <br>
+<br>
 
 hi, i'm Zafir, a software engineer graduated from the university of mauritius and i work as a mobile developer/consultant for sharinpix and spoon consulting.
 
