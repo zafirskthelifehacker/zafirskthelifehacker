@@ -14,5 +14,13 @@
 <br>
 <br>
 
-hi, i'm Zafir, a software engineer graduated from the university of mauritius and i work as a mobile developer/consultant for sharinpix and spoon consulting.
+hi, i'm <b>Zafir</b>, a software engineer graduated from the university of mauritius and i work as a mobile developer/consultant for sharinpix and spoon consulting.
 
+<br>
+<br>
+
+if you want to know about my personal projects, visit my personal blog/website at <a href="https://www.zfir.dev/">https://www.zfir.dev/</a>
+
+
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
