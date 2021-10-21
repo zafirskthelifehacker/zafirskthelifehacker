@@ -1,3 +1,4 @@
+<div style="text-align: center">
 ### hey there 👋
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=zafirskthelifehacker.visitor-badge&left_color=grey&right_color=blue&left_text=visitors) 
@@ -15,3 +16,4 @@
 hi, i'm <b>Zafir</b>, a software engineer graduated from the university of mauritius and i work as a mobile developer/consultant for sharinpix and spoon consulting.
 
 if you want to know about my personal projects, visit my personal blog/website at <a href="https://www.zfir.dev/">www.zfir.dev</a>
+</div>
