@@ -2,6 +2,8 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=zafirskthelifehacker.visitor-badge&left_color=grey&right_color=blue&left_text=visitors) 
 
+previously named as `zafirskthelifehacker`
+
 <a href="https://twitter.com/zafirsk_">
   <img align="left" alt="Zafir's Twitter" width="22px" src="https://raw.githubusercontent.com/zafirskthelifehacker/zafirskthelifehacker/main/assets/twitter.svg" />
 </a>
