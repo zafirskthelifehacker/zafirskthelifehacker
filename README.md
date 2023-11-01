@@ -1,6 +1,6 @@
 ### hey there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zfir)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zfir&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 previously named as `zafirskthelifehacker`
 
