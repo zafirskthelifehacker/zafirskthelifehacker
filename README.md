@@ -10,6 +10,9 @@ previously named as `zafirskthelifehacker`
 <a href="https://www.linkedin.com/in/zfir/">
   <img align="left" alt="Zafir's Linkedin" width="22px" src="https://raw.githubusercontent.com/zfir/zfir/main/assets/linkedin.svg" />
 </a>
+<a href="https://blog.zfir.dev">
+  <img align="left" alt="Zafir's Medium" width="22px" src="https://raw.githubusercontent.com/zfir/zfir/main/assets/medium.svg" />
+</a>
 
 <br>
 <br>
