@@ -1,6 +1,6 @@
 ### hey there 👋
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zfir&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
+![Zafir's Github Stats](https://github-readme-stats.vercel.app/api?username=zfir)
 
 previously named as `zafirskthelifehacker`
 
