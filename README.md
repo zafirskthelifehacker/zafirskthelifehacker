@@ -1,6 +1,6 @@
 ### hey there 👋
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=zafirskthelifehacker.visitor-badge&left_color=grey&right_color=blue&left_text=visitors) 
+![Zafir's GitHub stats](https://github-readme-stats.vercel.app/api?username=zfir&show_icons=true&theme=radical)
 
 previously named as `zafirskthelifehacker`
 
