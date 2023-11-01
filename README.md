@@ -16,6 +16,6 @@ previously named as `zafirskthelifehacker`
 
 hi, i'm <b>Zafir</b>, a software engineer graduated from the university of mauritius and i work as a mobile application developer for sharinpix and a consultant for spoon consulting.
 
-<a href="https://zfir.dev/?loadonly=blogposts">View my Blogs</a>
+<a href="https://zfir.dev/?loadonly=blogposts">View Blogs</a>
 
 if you want to know about my personal projects and more, visit my personal website at <a href="https://www.zfir.dev/">www.zfir.dev</a>.
