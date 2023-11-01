@@ -1,6 +1,6 @@
 ### hey there 👋
 
-![Zafir's GitHub stats](https://github-readme-stats.vercel.app/api?username=zfir&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zfir)](https://git.io/streak-stats)
 
 previously named as `zafirskthelifehacker`
 
