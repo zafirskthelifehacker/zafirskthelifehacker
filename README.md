@@ -1,6 +1,6 @@
 ### hey there 👋
 
-![Zafir's Github Stats](https://github-readme-stats.vercel.app/api?username=zfir)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=zfir&labelColor=%2310ddc2&countColor=%23053b50)
 
 previously named as `zafirskthelifehacker`
 
